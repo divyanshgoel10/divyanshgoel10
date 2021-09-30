@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Data Structures And Algorithms in C++
 - 👯 I’m looking to collaborate on anything that gains my interest
 - 📫 How to reach me: divyanshgoel0@gmail.com
-- ⚡ Fun fact: I want to learn new things everyday to remove that 'L' one day
+- ⚡ Fun fact: I want to learn new things every day to remove that 'L' one day
