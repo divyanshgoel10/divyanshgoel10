@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @divyanshgoel10
 - 👀 I’m interested in Software Development, Web Development
 - 🔭 I’m currently working on myself as well as some projects.
-- 🌱 I’m currently learning Data Structures And Algorithms in C++
+- 🌱 I’m currently learning Front End Development
 - 👯 I’m looking to collaborate on anything that gains my interest
 - 📫 How to reach me: divyanshgoel10@gmail.com
 - ⚡ Fun fact: I want to learn new things every day to remove that 'L' one day
